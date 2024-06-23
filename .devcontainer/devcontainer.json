@@ -1,0 +1,12 @@
+{
+    "dockerComposeFile": ["../docker-compose.yml"],
+    "service": "app",
+    "workspaceFolder": "/app",
+    "extensions": [
+        "ms-python.python",
+        "ms-vscode-remote.remote-ssh",
+        "mhutchie.git-graph",
+        "oderwat.indent-rainbow",
+        "njpwerner.autodocstring"
+    ]
+  }

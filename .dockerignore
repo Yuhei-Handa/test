@@ -1,0 +1,6 @@
+# ビルド時に必要なファイル以外はignoreします。
+# 開発時はマウントすれば他のファイルも見れます。
+*
+!pyproject.toml
+!poetry.lock
+!Makefile

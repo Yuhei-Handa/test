@@ -2,6 +2,9 @@ from http.server import BaseHTTPRequestHandler, HTTPServer
 
 
 def hello() -> str:
+
+    aaaaaaaaaaaa
+    print("hello")
     return "hello"
 
 

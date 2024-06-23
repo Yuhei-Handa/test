@@ -4,7 +4,7 @@
 
 # pythonのdocker image
 # バージョンは固定したほうが良い
-FROM python:3.9.13
+FROM python:3.8
 
 WORKDIR /app
 

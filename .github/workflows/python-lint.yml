@@ -45,3 +45,5 @@ jobs:
         run: poetry install --no-interaction
       - name: Run linter
         run: make lint
+      - name: Run formatter
+        run: make format
